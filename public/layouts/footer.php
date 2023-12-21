@@ -9,7 +9,7 @@
                 <a href="" class="nav-link"><i class="fa-solid fa-location-dot"></i> Số 2 Đường Số 19, Khu dân cư Việt Phú Garden, Bình Chánh, TP. HCM</a>
             </div>
             <div class="col-sm-12 col-lg-6 py-5">
-                <p class="text-uppercase fw-bold">Hướng Dân Mua Hàng</p>
+                <p class="text-uppercase fw-bold">Hướng Dẫn Mua Hàng</p>
                 <a href="#" class="nav-link my-2">Lưu Ý Nhanh</a>
                 <a href="#" class="nav-link my-2">Chọn Kính Theo Khuôn Mặt</a>
                 <a href="#" class="nav-link my-2">Tư Vấn Khúc Xạ</a>
@@ -31,7 +31,7 @@
 
 <footer class="bg-dark-subtle p-5 d-flex flex-column">
 
-    <div class="d-flex flex-row gap-4 container">
+    <div class="d-flex flex-row gap-4 container flex-wrap">
         <a href="" class="text-decoration-none nav-link">Kính Rocky</a>
         <a href="" class="text-decoration-none nav-link">Kính Râm</a>
         <a href="" class="text-decoration-none nav-link">Gọng Kính Cận</a>

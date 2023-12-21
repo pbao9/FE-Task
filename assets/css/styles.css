@@ -39,12 +39,15 @@
   justify-content: center;
   align-items: center;
 }
-.container.slide_mainpage {
+
+.slide_mainpage {
   max-width: 1650px !important;
-  height: 850px !important;
+  height: 830px !important;
 }
 
 /* Slide */
+
+
 
 /* Content */
 .box-content {
@@ -57,6 +60,11 @@
   transform: translateY(-30%);
 }
 
+.box-product,
+.box-blog {
+  width: 270px !important;
+}
+
 .deal-section {
   height: 250px;
   width: 100%;
@@ -64,6 +72,12 @@
   background-position: 50% 20%;
   background-size: cover;
   background-image: url("../img/kinhmateyeplus-hot-deal.jpg");
+}
+
+@media (max-with: 1024px) {
+  .container.slide_mainpage {
+    height: auto !important;
+  }
 }
 
 /* Content */
