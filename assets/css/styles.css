@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
+
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* Header */
+
+.navbar {
+  height: 90px;
+  background-color: white !important;
+}
+
+.nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.nav-item .dropdown-menu a:hover {
+  color: #4872fa !important;
+}
+
+.nav-link {
+  color: black !important;
+}
+
+.nav-link:hover {
+  color: #4872fa !important;
+}
+
+/* Header */
+
+/* Slide */
+.cicrle-button {
+  background: grey;
+  border-radius: 50px;
+  height: 60px;
+  width: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container.slide_mainpage {
+  max-width: 1650px !important;
+  height: 850px !important;
+}
+
+/* Slide */
+
+/* Content */
+.box-content {
+  top: 15%;
+  width: auto !important;
+  left: 65% !important;
+}
+
+.product-categories {
+  transform: translateY(-30%);
+}
+
+.deal-section {
+  height: 250px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: 50% 20%;
+  background-size: cover;
+  background-image: url("../img/kinhmateyeplus-hot-deal.jpg");
+}
+
+/* Content */
+
+/* Footer */
+
+/* Footer */
