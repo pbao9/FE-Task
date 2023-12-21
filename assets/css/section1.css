@@ -1,0 +1,45 @@
+section.about-section .widget.widget_about_image img {
+  border-radius: 100%;
+  background-image: url(../img/abstract-circle.png);
+  padding: 20px;
+  width: 512px;
+  height: 512px !important;
+  object-fit: contain;
+  background-repeat: no-repeat;
+  background-size: 98%;
+  background-position: center;
+  object-fit: cover;
+}
+
+section.about-section h2 {
+  color: #e39696;
+  font-size: 36px;
+}
+section.story-section h1 {
+  color: #e39696;
+  font-size: 4em;
+}
+
+section.about-section .widget.widget_about_image img {
+  width: 521px;
+  height: 521px;
+}
+
+#about_image img {
+  height: 520px;
+  width: 520px;
+}
+
+@media (max-width: 1024px) {
+  section.about-section .widget.widget_about_image img {
+    width: 351px !important;
+    height: 351px !important;
+  }
+
+  #about_image img {
+    height: 350px !important;
+    width: 350px !important;
+  }
+}
+
+

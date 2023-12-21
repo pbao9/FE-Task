@@ -1,0 +1,43 @@
+#quote_section .content {
+  width: 80%;
+}
+.quote-section {
+  background: url("../img/blockquote-cta-bg.jpg");
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: 50% 50%;
+  height: 450px !important;
+}
+
+#quote_section .content::before {
+  content: "";
+  background-image: url('data:image/svg+xml; utf-8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path fill="%23e39696" d="M75.6,40.5a20,20,0,1,1-20.1,20,39.989,39.989,0,0,1,40-40A39.31,39.31,0,0,0,75.6,40.5Zm-30.1,20a20,20,0,0,1-40,0h0a39.989,39.989,0,0,1,40-40,39.31,39.31,0,0,0-19.9,20A19.973,19.973,0,0,1,45.5,60.5Z"></path></svg>');
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  opacity: 0.75;
+}
+#quote_section .content::after {
+  content: "";
+  background-image: url('data:image/svg+xml; utf-8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path fill="%23e39696" d="M75.6,40.5a20,20,0,1,1-20.1,20,39.989,39.989,0,0,1,40-40A39.31,39.31,0,0,0,75.6,40.5Zm-30.1,20a20,20,0,0,1-40,0h0a39.989,39.989,0,0,1,40-40,39.31,39.31,0,0,0-19.9,20A19.973,19.973,0,0,1,45.5,60.5Z"></path></svg>');
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  transform: rotate(180deg);
+  opacity: 0.75;
+}
+
+.quote-desc {
+  padding: 80px;
+}
+
+#quote_section .quote-desc {
+  font-size: 64px;
+  font-family: "Great Vibes", cursive;
+}

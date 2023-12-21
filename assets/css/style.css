@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Nunito:wght@300;400;500;600;700;800;900;1000&display=swap");
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.time-entry-date {
+  font-family: "Great Vibes", cursive;
+  color: #e39696;
+}
+
+h1 {
+  font-size: 3.5em !important;
+}
+
+p,
+div,
+span,
+a {
+  font-family: "Nunito", sans-serif;
+}
+
+
+#about_section,
+#story_section,
+#gallery_section,
+#advice_section,
+#quote_section {
+  padding: 50px 0;
+}
+
+svg {
+  margin: 20px 0;
+}

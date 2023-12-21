@@ -1,0 +1,41 @@
+#banner-animation {
+  padding-top: 56.25%;
+}
+
+.banner {
+  background-color: rgb(68, 96, 132);
+  min-height: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.fill {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.bottom,
+.fill {
+  bottom: 0px;
+}
+
+.bg-fill {
+  background-position: 50% 50%;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+#banner-animation .bg.bg-loaded {
+  background-image: url(../img/banner.jpg);
+}
+
+.banner-content h1 {
+  color: white;
+  font-size: 100px;
+  font-weight: 500;
+}

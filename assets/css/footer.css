@@ -1,0 +1,12 @@
+#footer-animation {
+  height: 350px;
+}
+#footer-animation .bg-footer {
+  background-image: url("../img/banner.jpg");
+}
+
+.footer .bg-fill {
+  background-position: 50 50%;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+}
