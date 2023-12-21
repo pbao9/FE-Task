@@ -1,11 +1,63 @@
-<div class="banner has-hover" id="banner-animation">
-    <div class="banner-bg fill">
-        <div class="bg fill bg-fill bg-loaded"></div>
-        <div class="banner-content position-absolute top-50 start-50 translate-middle text-center z-1">
-            <h1 class="text-white mb-3">Bride & Groom</h1>
-            <p class="fs-3 fw-light text-light fst-italic mb-0 time-entry-date"><strong>Ngày 12 - Tháng 12 - Năm 2023</strong></p>
-            <img src="./assets/img/flower-bottom.png" width="100%" class="mt-3 mb-3" />
+<div class="silder">
+    <div id="carouselExampleAutoplaying" class="carousel slide carousel-fade" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="./assets/img/slide1.jpg" class="d-block w-100" alt="..." />
+                <div class="carousel-caption d-none d-md-block mb-5">
+                    <h2 class="animate__animated animate__fadeInDown animate__delay-1s">
+                        Carol & John
+                    </h2>
+                    <p class="silder-text-line mx-auto animate__animated animate__fadeInUp animate__delay-1s">
+                        We Are Getting Married
+                    </p>
+                    <span class="date-silder p-3 rounded animate__animated animate__fadeInLeft animate__delay-1s">Save The Date 5 Jan 2019</span>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="./assets/img/slide2.jpg" class="d-block w-100" alt="..." />
+                <div class="carousel-caption d-none d-md-block mb-5">
+                    <h2 class="animate__animated animate__fadeInDown animate__delay-1s">
+                        Carol & John
+                    </h2>
+                    <p class="silder-text-line mx-auto animate__animated animate__fadeInUp animate__delay-1s">
+                        We Are Getting Married
+                    </p>
+                    <span class="date-silder p-3 rounded animate__animated animate__fadeInLeft animate__delay-1s">Save The Date 5 Jan 2019</span>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="./assets/img/slide3.jpg" class="d-block w-100" alt="..." />
+                <div class="carousel-caption d-none d-md-block mb-5">
+                    <h2 class="animate__animated animate__fadeInDown animate__delay-1s">
+                        Carol & John
+                    </h2>
+                    <p class="silder-text-line mx-auto animate__animated animate__fadeInUp animate__delay-1s">
+                        We Are Getting Married
+                    </p>
+                    <span class="date-silder p-3 rounded animate__animated animate__fadeInLeft animate__delay-1s">Save The Date 5 Jan 2019</span>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="./assets/img/slide4.jpg" class="d-block w-100" alt="..." />
+                <div class="carousel-caption d-none d-md-block mb-5">
+                    <h2 class="animate__animated animate__fadeInDown animate__delay-1s">
+                        Carol & John
+                    </h2>
+                    <p class="silder-text-line mx-auto animate__animated animate__fadeInUp animate__delay-1s">
+                        We Are Getting Married
+                    </p>
+                    <span class="date-silder p-3 rounded animate__animated animate__fadeInLeft animate__delay-1s">Save The Date 5 Jan 2019</span>
+                </div>
+            </div>
         </div>
-        <div class="overlay position-absolute top-0 left-0 w-100 h-100" style="background-color: rgba(0, 0, 0, 0.5)"></div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+            <i class="fas fa-chevron-left"></i>
+            <span class="visually-hidden">Previous</span>
+        </button>
+
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+            <i class="fas fa-chevron-right"></i>
+            <span class="visually-hidden">Next</span>
+        </button>
     </div>
 </div>
