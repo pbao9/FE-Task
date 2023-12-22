@@ -28,7 +28,7 @@
     <!-- Content -->
     <div class="container py-4">
         <div class="row">
-            <div class="col-md-7">
+            <div class="col-md-5">
                 <div id="carouselExample" class="carousel slide">
                     <div class="carousel-inner border">
                         <div class="carousel-item active">
@@ -63,7 +63,7 @@
 
 
             </div>
-            <div class="col-md-5">
+            <div class="col-md-7">
                 <div class="detail-products">
                     <h4 class="text-uppercase fw-bold title-products">GỌNG KÍNH EYE PLUS 9812 C11 ĐEN</h4>
                     <p class="desc-products">Bạn đang tìm kiếm một chiếc gọng kính vừa trẻ trung vừa phong cách ư?</p>
@@ -83,7 +83,7 @@
                         <span class="sale-price fs-3 fw-bold" style="color:red">280.000 ₫</span>
                     </span>
 
-                    <div class="d-flex align-items-center mt-3">
+                    <div class="d-flex align-items-center mt-3 justify-content-between">
                         <form action="#" class="d-flex align-items-center mt-3">
                             <span class="rounded d-flex justify-content-evenly gap-4 px-3 border text-dark p-2 mx-3">
                                 <span class="minus fs-3" style="cursor: pointer;">-</span>
@@ -95,6 +95,8 @@
                         </form>
 
                     </div>
+
+                    <a href="#" class="btn btn-warning fw-bold text-uppercase mt-3 p-2 w-100">Mua Ngay</a>
 
                 </div>
 
