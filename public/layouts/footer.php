@@ -1,3 +1,4 @@
+<!-- Footer -->
 <section class="above-footer container bg-info-subtle my-5 rounded">
     <div class="row">
         <div class="col-sm-12 col-lg-4 p-5 rounded">
@@ -6,7 +7,7 @@
         <div class="col-sm-12 col-lg-8 row">
             <div class="col-sm-12 col-lg-6 py-5">
                 <p class="text-uppercase fw-bold">Hệ thống cửa hàng</p>
-                <a href="" class="nav-link"><i class="fa-solid fa-location-dot"></i> Số 2 Đường Số 19, Khu dân cư Việt Phú Garden, Bình Chánh, TP. HCM</a>
+                <a href="#" class="text-decoration-none" style="color:#4872fa"><i class="fa-solid fa-location-dot"></i> Số 2 Đường Số 19, Khu dân cư Việt Phú Garden, Bình Chánh, TP. HCM</a>
             </div>
             <div class="col-sm-12 col-lg-6 py-5">
                 <p class="text-uppercase fw-bold">Hướng Dẫn Mua Hàng</p>
@@ -57,3 +58,4 @@
     </div>
 
 </footer>
+<!-- Footer -->

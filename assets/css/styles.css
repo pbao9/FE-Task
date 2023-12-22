@@ -42,22 +42,19 @@
 
 .slide_mainpage {
   max-width: 1650px !important;
-  height: 830px !important;
+  /* height: 870px; */
 }
 
 /* Slide */
 
-
-
 /* Content */
+.title-color {
+  color: #4872fa !important;
+}
 .box-content {
   top: 15%;
   width: auto !important;
-  left: 65% !important;
-}
-
-.product-categories {
-  transform: translateY(-30%);
+  left: 60% !important;
 }
 
 .box-product,
@@ -74,10 +71,63 @@
   background-image: url("../img/kinhmateyeplus-hot-deal.jpg");
 }
 
-@media (max-with: 1024px) {
-  .container.slide_mainpage {
-    height: auto !important;
-  }
+.read-more-text {
+  display: none;
+}
+
+.read-more-text--show {
+  display: inline;
+}
+
+.categories .nam {
+  background: url("../img/Male.png") no-repeat 9px center;
+  padding-left: 30px;
+}
+.categories .nu {
+  background: url("../img/Female.png") no-repeat 9px center;
+  padding-left: 30px;
+}
+.categories .unisex {
+  background: url("../img/Unisex.png") no-repeat 9px center;
+  padding-left: 30px;
+}
+.categories .chu-nhat {
+  background: url("../img/chu-nhat.png") no-repeat 9px center;
+  padding-left: 60px;
+}
+.categories .mat-meo {
+  background: url("../img/mat-meo.png") no-repeat 9px center;
+  padding-left: 60px;
+}
+.categories .oval {
+  background: url("../img/oval.png") no-repeat 9px center;
+  padding-left: 60px;
+}
+
+.ui-state-default,
+.ui-widget-content .ui-state-default {
+  border-radius: 25px;
+  background: #4872fa !important;
+}
+div.ui-slider {
+  height: 20px !important;
+}
+
+.product-last-seen span {
+  font-size: 14px;
+}
+
+.icon-shape {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.icon-sm {
+  width: 2rem;
+  height: 2rem;
 }
 
 /* Content */

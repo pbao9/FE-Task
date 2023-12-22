@@ -1,22 +1,24 @@
-<nav class="navbar navbar-expand-lg sticky-top shadow">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#">
+<!-- Header -->
+<nav class="navbar navbar-expand-lg sticky-top shadow align-items-lg-left align-items-xl-center">
+    <div class="container-fluid flex-lg-column flex-xl-row  ">
+        <a class="navbar-brand" href="./index.php   ">
             <img src="./assets/img/logo.png" alt="">
+            <img src="../../assets/img/logo.png" alt="">
         </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler d-lg-none d-sm-block" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mx-auto mb-2 mb-lg-0 fw-bold text-capitalize gap-3">
+            <ul class="navbar-nav mx-xl-auto me-lg-auto mb-2 mb-lg-0 fw-bold text-capitalize gap-3">
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="#">Kính Râm</a>
+                    <a class="nav-link" aria-current="page" href="./products.php">Kính Râm</a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link" href="./products-details.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Gọng Kính Cận
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Combo Kính Chống Ánh Sáng Xanh Có Sẵn</a></li>
+                        <li><a class="dropdown-item" href="./products-detail.php">Combo Kính Chống Ánh Sáng Xanh Có Sẵn</a></li>
                         <li><a class="dropdown-item" href="#">Gọng Kính Cận Cả Viền</a></li>
                         <li><a class="dropdown-item" href="#">Gọng Kính Cận Nữa Viền</a></li>
                         <li><a class="dropdown-item" href="#">Gọng Kính Không Viền</a></li>
@@ -61,11 +63,13 @@
                     <a class="nav-link" aria-current="page" href="#">Vip Member</a>
                 </li>
             </ul>
+            <span class="d-flex flex-row gap-1 justify-content-xl-evenly justify-content-lg-start align-items-center">
+                <i class="fa-solid fa-magnifying-glass d-sm-none d-lg-block"></i>
+                <span class="pe-1 ps-1 d-sm-none d-lg-block">|</span>
+                <i class="fa-solid fa-cart-shopping d-lg-block"></i>
+            </span>
         </div>
-        <span class="d-flex flex-row gap-1 justify-content-evenly align-items-center">
-            <i class="fa-solid fa-magnifying-glass d-sm-none d-lg-block"></i>
-            <span class="pe-1 ps-1 d-sm-none d-lg-block">|</span>
-            <i class="fa-solid fa-cart-shopping d-lg-block"></i>
-        </span>
+
     </div>
 </nav>
+<!-- Header -->
