@@ -139,17 +139,12 @@
                 </section>
                 <!-- Product -->
                 <div class="container">
-                    <!-- Example split danger button -->
-                    <div class="btn-group">
-                        <button type="button" class="btn btn-outline-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-                            Sắp xếp theo <span class="fw-bold">Ngày</span>
-                        </button>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Sắp xếp theo <span class="fw-bold">Giá tiền</span></a></li>
-                            <li><a class="dropdown-item" href="#">Sắp xếp theo <span class="fw-bold">Tên</span></a></li>
-                            <li><a class="dropdown-item" href="#">Sắp xếp theo <span class="fw-bold">Đánh giá</span></a></li>
-                        </ul>
-                    </div>
+                    <select class="form-select w-25 shadow-none" aria-label="Default select example">
+                        <option selected>Sắp xếp theo</option>
+                        <option value="1">Sắp xếp theo <span class="fw-bold">Ngày</span></option>
+                        <option value="2">Sắp xếp theo <strong>Tên</strong></option>
+                        <option value="3">Sắp xếp theo <strong>Đánh giá</strong></option>
+                    </select>
                     <ul class="list-unstyled d-flex gap-3 px-3 flex-row d-flex my-4 py-4 bg-body-secondary align-items-center">
                         <span class="text-uppercase fw-bold">Sắp xếp theo: </span>
                         <li><a href="#" class="text-decoration-none nav-link">Giá từ thấp đến cao</a></li>
