@@ -337,9 +337,9 @@
     <section class="blog-section my-5 py-5" id="blog_section">
         <div class="container">
             <h4 class="text-center text-uppercase fw-bold title-section pb-5">ROCKYLEN'S BLOG</h4>
-            <div class="row justify-content-evenly row-cols-4 py-2 gap-2">
+            <div class="row justify-content-evenly row-cols-4 py-2">
                 <!-- Blog -->
-                <div class="col-3 text-center p-0 mb-5 box-blog">
+                <div class="col-3 text-center p-3 mb-5 box-blog">
                     <img src="./assets/img/avav.png" alt="" class="img-fluid">
                     <a href="#" class="text-uppercase mt-3 fw-bold nav-link pb-3">ÁNH SÁNG XANH TÍM VÀ TRÒNG KÍNH LỌC ÁNH SÁNG XANH TÍM</a>
                     <span class="d-flex justify-content-center gap-2">
@@ -349,7 +349,7 @@
                 </div>
                 <!-- Blog -->
                 <!-- Blog -->
-                <div class="col-3 text-center p-0 mb-5 box-blog">
+                <div class="col-3 text-center p-3 mb-5 box-blog">
                     <img src="./assets/img/Untitled-2-copy.jpg" alt="" class="img-fluid">
                     <a href="#" class="text-uppercase mt-3 fw-bold nav-link pb-3">ÁNH SÁNG XANH TÍM VÀ TRÒNG KÍNH LỌC ÁNH SÁNG XANH TÍM</a>
                     <span class="d-flex justify-content-center gap-2">
@@ -359,7 +359,7 @@
                 </div>
                 <!-- Blog -->
                 <!-- Blog -->
-                <div class="col-3 text-center p-0 mb-5 box-blog">
+                <div class="col-3 text-center p-3 mb-5 box-blog">
                     <img src="./assets/img/asx1.jpg" alt="" class="img-fluid">
                     <a href="#" class="text-uppercase mt-3 fw-bold nav-link pb-3">ÁNH SÁNG XANH TÍM VÀ TRÒNG KÍNH LỌC ÁNH SÁNG XANH TÍM</a>
                     <span class="d-flex justify-content-center gap-2">
@@ -369,7 +369,7 @@
                 </div>
                 <!-- Blog -->
                 <!-- Blog -->
-                <div class="col-3 text-center p-0 mb-5 box-blog">
+                <div class="col-3 text-center p-3 mb-5 box-blog">
                     <img src="./assets/img/dong-cua.png" alt="" class="img-fluid">
                     <a href="#" class="text-uppercase mt-3 fw-bold nav-link pb-3">ÁNH SÁNG XANH TÍM VÀ TRÒNG KÍNH LỌC ÁNH SÁNG XANH TÍM</a>
                     <span class="d-flex justify-content-center gap-2">
