@@ -184,11 +184,11 @@
             <hr>
             <div class="features-products text-center py-5">
                 <p class="text-uppercase fw-bold fs-3">Các tròng kính khác</p>
-                <div class="row gap-4">
+                <div class="row row-cols-6 gap-4 justify-content-evenly">
                     <div class="col shadow rounded p-0">
                         <img src="./assets/img/product_2.png" class="img-fluid" alt="">
                         <div class="text-uppercase p-2">GỌNG KÍNH EYE PLUS 9812 C11 ĐEN</div>
-                        <div class="d-flex justify-content-evenly p-2">
+                        <div class="d-flex justify-content-evenly p-2 flex-wrap">
                             <span class="price-sale fw-bold"><del>350.000đ</del></span>
                             <span class="price fw-bold" style="color:red">250.000đ</span>
                         </div>
@@ -196,50 +196,46 @@
                     <div class="col shadow rounded p-0">
                         <img src="./assets/img/product_1.jpg" class="img-fluid" alt="">
                         <div class="text-uppercase p-2">GỌNG KÍNH EYE PLUS 9812 C11 ĐEN</div>
-                        <div class="d-flex justify-content-evenly p-2">
+                        <div class="d-flex justify-content-evenly p-2 flex-wrap">
                             <span class="price-sale fw-bold"><del>350.000đ</del></span>
                             <span class="price fw-bold" style="color:red">250.000đ</span>
                         </div>
-
                     </div>
                     <div class="col shadow rounded p-0">
                         <img src="./assets/img/product_2.png" class="img-fluid" alt="">
                         <div class="text-uppercase p-2">GỌNG KÍNH EYE PLUS 9812 C11 ĐEN</div>
-                        <div class="d-flex justify-content-evenly p-2">
+                        <div class="d-flex justify-content-evenly p-2 flex-wrap">
                             <span class="price-sale fw-bold"><del>350.000đ</del></span>
                             <span class="price fw-bold" style="color:red">250.000đ</span>
                         </div>
-
                     </div>
                     <div class="col shadow rounded p-0">
                         <img src="./assets/img/product_1.jpg" class="img-fluid" alt="">
                         <div class="text-uppercase p-2">GỌNG KÍNH EYE PLUS 9812 C11 ĐEN</div>
-                        <div class="d-flex justify-content-evenly p-2">
+                        <div class="d-flex justify-content-evenly p-2 flex-wrap">
                             <span class="price-sale fw-bold"><del>350.000đ</del></span>
                             <span class="price fw-bold" style="color:red">250.000đ</span>
                         </div>
-
                     </div>
                     <div class="col shadow rounded p-0">
                         <img src="./assets/img/product_2.png" class="img-fluid" alt="">
                         <div class="text-uppercase p-2">GỌNG KÍNH EYE PLUS 9812 C11 ĐEN</div>
-                        <div class="d-flex justify-content-evenly p-2">
+                        <div class="d-flex justify-content-evenly p-2 flex-wrap">
                             <span class="price-sale fw-bold"><del>350.000đ</del></span>
                             <span class="price fw-bold" style="color:red">250.000đ</span>
                         </div>
-
                     </div>
 
                 </div>
             </div>
 
             <div class="features-products text-center py-5">
-                <p class="text-uppercase fw-bold fs-3">Sản phẩm khác</p>
-                <div class="row gap-4">
+                <p class="text-uppercase fw-bold fs-3">Các tròng kính khác</p>
+                <div class="row row-cols-6 gap-4 justify-content-evenly">
                     <div class="col shadow rounded p-0">
                         <img src="./assets/img/product_2.png" class="img-fluid" alt="">
                         <div class="text-uppercase p-2">GỌNG KÍNH EYE PLUS 9812 C11 ĐEN</div>
-                        <div class="d-flex justify-content-evenly p-2">
+                        <div class="d-flex justify-content-evenly p-2 flex-wrap">
                             <span class="price-sale fw-bold"><del>350.000đ</del></span>
                             <span class="price fw-bold" style="color:red">250.000đ</span>
                         </div>
@@ -247,38 +243,34 @@
                     <div class="col shadow rounded p-0">
                         <img src="./assets/img/product_1.jpg" class="img-fluid" alt="">
                         <div class="text-uppercase p-2">GỌNG KÍNH EYE PLUS 9812 C11 ĐEN</div>
-                        <div class="d-flex justify-content-evenly p-2">
+                        <div class="d-flex justify-content-evenly p-2 flex-wrap">
                             <span class="price-sale fw-bold"><del>350.000đ</del></span>
                             <span class="price fw-bold" style="color:red">250.000đ</span>
                         </div>
-
                     </div>
                     <div class="col shadow rounded p-0">
                         <img src="./assets/img/product_2.png" class="img-fluid" alt="">
                         <div class="text-uppercase p-2">GỌNG KÍNH EYE PLUS 9812 C11 ĐEN</div>
-                        <div class="d-flex justify-content-evenly p-2">
+                        <div class="d-flex justify-content-evenly p-2 flex-wrap">
                             <span class="price-sale fw-bold"><del>350.000đ</del></span>
                             <span class="price fw-bold" style="color:red">250.000đ</span>
                         </div>
-
                     </div>
                     <div class="col shadow rounded p-0">
                         <img src="./assets/img/product_1.jpg" class="img-fluid" alt="">
                         <div class="text-uppercase p-2">GỌNG KÍNH EYE PLUS 9812 C11 ĐEN</div>
-                        <div class="d-flex justify-content-evenly p-2">
+                        <div class="d-flex justify-content-evenly p-2 flex-wrap">
                             <span class="price-sale fw-bold"><del>350.000đ</del></span>
                             <span class="price fw-bold" style="color:red">250.000đ</span>
                         </div>
-
                     </div>
                     <div class="col shadow rounded p-0">
                         <img src="./assets/img/product_2.png" class="img-fluid" alt="">
                         <div class="text-uppercase p-2">GỌNG KÍNH EYE PLUS 9812 C11 ĐEN</div>
-                        <div class="d-flex justify-content-evenly p-2">
+                        <div class="d-flex justify-content-evenly p-2 flex-wrap">
                             <span class="price-sale fw-bold"><del>350.000đ</del></span>
                             <span class="price fw-bold" style="color:red">250.000đ</span>
                         </div>
-
                     </div>
 
                 </div>

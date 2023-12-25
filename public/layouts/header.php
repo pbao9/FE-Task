@@ -1,15 +1,16 @@
 <!-- Header -->
-<nav class="navbar navbar-expand-lg sticky-top shadow align-items-lg-left align-items-xl-center">
-    <div class="container-fluid flex-lg-column flex-xl-row  ">
+<nav class="navbar navbar-expand-lg sticky-top align-items-lg-left align-items-xl-center bg-white py-2 shadow-sm">
+    <div class="container-fluid flex-lg-column flex-xl-row py-lg-1 py-md-3">
         <a class="navbar-brand" href="./index.php   ">
             <img src="./assets/img/logo.png" alt="">
-            <img src="../../assets/img/logo.png" alt="">
         </a>
-        <button class="navbar-toggler d-lg-none d-sm-block" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+        <button class="navbar-toggler d-lg-none d-sm-block collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="toggler-icon top-bar"></span>
+            <span class="toggler-icon middle-bar"></span>
+            <span class="toggler-icon bottom-bar"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mx-xl-auto me-lg-auto mb-2 mb-lg-0 fw-bold text-capitalize gap-3">
+        <div class="collapse navbar-collapse flex-wrap justify-content-md-center py-lg-0 py-md-3" id="navbarSupportedContent">
+            <ul class="navbar-nav mx-xl-auto me-lg-auto mb-2 mb-lg-0 fw-bold text-capitalize gap-3 col-xl-auto col-md-12 justify-content-center">
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="./products.php">Kính Râm</a>
                 </li>
@@ -64,19 +65,19 @@
                 </li>
             </ul>
 
-            <span class="d-flex flex-row gap-1 justify-content-xl-evenly justify-content-lg-start align-items-center px-2">
-                <i class="fa-solid fa-magnifying-glass d-sm-none d-lg-block"></i>
-                <span class="pe-1 ps-1 d-sm-none d-lg-block">|</span>
-                <i class="fa-solid fa-cart-shopping d-lg-block"></i>
-            </span>
-
-            <span class="d-flex flex-row gap-1 justify-content-xl-evenly justify-content-lg-start align-items-center px-2">
-                <span class="btn btn-outline-info">
-                    <a href="./login.php" class="text-decoration-none text-dark">Đăng nhập</a>
-                    <span class="ps-1 pe-1">|</span>
-                    <a href="./register.php" class="text-decoration-none text-danger">Đăng ký</a>
+            <div class="d-flex justify-content-center align-items-center gap-5">
+                <span>
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <span class="pe-1 ps-1">|</span>
+                    <i class="fa-solid fa-cart-shopping"></i>
                 </span>
-            </span>
+                <div class="btn btn-outline-info px-3">
+                    <a href="./login.php" class="text-decoration-none text-dark fw-bold">Đăng nhập</a>
+                    <span class="ps-1 pe-1 fw-bold">|</span>
+                    <a href="./register.php" class="text-decoration-none text-dark fw-bold">Đăng ký</a>
+                </div>
+
+            </div>
         </div>
 
     </div>

@@ -1,4 +1,32 @@
 <!-- Footer -->
+<div class="fab-container">
+    <div class="fab shadow">
+        <div class="fab-content">
+            <i class="fa-brands fa-facebook-messenger fs-1 text-white"></i>
+        </div>
+    </div>
+    <div class="sub-button shadow">
+        <a href="google.com" target="_blank">
+            <i class="fa-brands fa-facebook text-white fs-2"></i>
+        </a>
+    </div>
+    <div class="sub-button shadow">
+        <a href="google.com" target="_blank">
+            <span class="material-icons">mail_outline</span>
+        </a>
+    </div>
+    <div class="sub-button shadow">
+        <a href="google.com" target="_blank">
+            <span class="material-icons">language</span>
+        </a>
+    </div>
+    <div class="sub-button shadow">
+        <a href="google.com" target="_blank">
+            <span class="material-icons">help_outline</span>
+        </a>
+    </div>
+</div>
+
 <section class="above-footer container bg-info-subtle my-5 rounded">
     <div class="row">
         <div class="col-sm-12 col-lg-4 p-5 rounded">
@@ -27,8 +55,6 @@
         </div>
     </div>
 </section>
-
-
 
 <footer class="bg-dark-subtle p-5 d-flex flex-column">
 
