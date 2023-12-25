@@ -19,8 +19,8 @@
                     </a>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="./products-detail.php">Combo Kính Chống Ánh Sáng Xanh Có Sẵn</a></li>
-                        <li><a class="dropdown-item" href="#">Gọng Kính Cận Cả Viền</a></li>
-                        <li><a class="dropdown-item" href="#">Gọng Kính Cận Nữa Viền</a></li>
+                        <li><a class="dropdown-item" href="./cart.php">Gọng Kính Cận Cả Viền</a></li>
+                        <li><a class="dropdown-item" href="./checkout.php">Gọng Kính Cận Nữa Viền</a></li>
                         <li><a class="dropdown-item" href="#">Gọng Kính Không Viền</a></li>
                         <li><a class="dropdown-item" href="#">Gọng Kính Gỗ</a></li>
                         <li><a class="dropdown-item" href="#">Gọng Kính Cận Giá Rẻ</a></li>
@@ -63,10 +63,19 @@
                     <a class="nav-link" aria-current="page" href="#">Vip Member</a>
                 </li>
             </ul>
-            <span class="d-flex flex-row gap-1 justify-content-xl-evenly justify-content-lg-start align-items-center">
+
+            <span class="d-flex flex-row gap-1 justify-content-xl-evenly justify-content-lg-start align-items-center px-2">
                 <i class="fa-solid fa-magnifying-glass d-sm-none d-lg-block"></i>
                 <span class="pe-1 ps-1 d-sm-none d-lg-block">|</span>
                 <i class="fa-solid fa-cart-shopping d-lg-block"></i>
+            </span>
+
+            <span class="d-flex flex-row gap-1 justify-content-xl-evenly justify-content-lg-start align-items-center px-2">
+                <span class="btn btn-outline-info">
+                    <a href="./login.php" class="text-decoration-none text-dark">Đăng nhập</a>
+                    <span class="ps-1 pe-1">|</span>
+                    <a href="./register.php" class="text-decoration-none text-danger">Đăng ký</a>
+                </span>
             </span>
         </div>
 
