@@ -96,17 +96,17 @@
     <section class="card-section my-5 py-5" id="card_section">
         <div class="container">
             <div class="row justify-content-evenly">
-                <div class="col-lg-3 col-sm-12 bg-light text-black rounded shadow text-center mt-lg-0 mt-sm-3">
+                <div class="col-lg-3 col-sm-12 bg-light text-black rounded shadow text-center mt-lg-0 mt-sm-3 mb-3">
                     <img src="./assets/img/sunglasses1.png" alt="" class="img-fluid my-3">
                     <p class="text-uppercase fw-bold">Mẫu mã đa dạng</p>
                     <p class="fw-light px-3">Thấu hiểu thị hiếu khách hàng, mẫu mã của Eye Plus đa dạng, phù hợp với nhiều yêu cầu khác nhau.</p>
                 </div>
-                <div class="col-lg-3 col-sm-12 bg-light text-black rounded shadow text-center mt-lg-0 mt-sm-3">
+                <div class="col-lg-3 col-sm-12 bg-light text-black rounded shadow text-center mt-lg-0 mt-sm-3 mb-3">
                     <img src="./assets/img/medal1.png" alt="" class="img-fluid my-3">
                     <p class="text-uppercase fw-bold">CHẤT LƯỢNG ĐI ĐẦU</p>
                     <p class="fw-light px-3">Các sản phẩm được chọn lựa kỹ lưỡng, độ tinh xảo cao đi cùng chuyên viên kinh nghiệm và máy móc tiên tiến, hiện đại.</p>
                 </div>
-                <div class="col-lg-3 col-sm-12 bg-light text-black rounded shadow text-center mt-lg-0 mt-sm-3">
+                <div class="col-lg-3 col-sm-12 bg-light text-black rounded shadow text-center mt-lg-0 mt-sm-3 mb-3">
                     <img src="./assets/img/piggy-bank1.png" alt="" class="img-fluid my-3">
                     <p class="text-uppercase fw-bold">GIÁ CẢ HỢP LÝ</p>
                     <p class="fw-light px-3">Mức giá cạnh tranh tương xứng với chất lượng, nhiều chương trình ưu đãi và chế độ bảo hành hậu mãi.</p>
@@ -117,23 +117,23 @@
 
     <section class="partner-section my-5 py-5" id="parner_section">
         <div class="container bg-body-tertiary py-5">
-            <h4 class="text-center text-uppercase fw-bold title-section pb-5">Đối tác hàng đầu</h4>
-            <div class="row">
-                <div class="col"><img src="./assets/img/logo-hoya.png" alt=""></div>
-                <div class="col"><img src="./assets/img/logo-essilor.png" alt=""></div>
-                <div class="col"><img src="./assets/img/logo-chemi.png" alt=""></div>
-                <div class="col"><img src="./assets/img/logo-akp.png" alt=""></div>
-                <div class="col"><img src="./assets/img/logo-reeman.png" alt=""></div>
+            <h4 class="text-center text-uppercase fw-bold title-section pb-2">Đối tác hàng đầu</h4>
+            <div class="row flex-wrap">
+                <div class="col"><img src="./assets/img/logo-hoya.png" alt="" class="img-fluid"></div>
+                <div class="col"><img src="./assets/img/logo-essilor.png" alt="" class="img-fluid"></div>
+                <div class="col"><img src="./assets/img/logo-chemi.png" alt="" class="img-fluid"></div>
+                <div class="col"><img src="./assets/img/logo-akp.png" alt="" class="img-fluid"></div>
+                <div class="col"><img src="./assets/img/logo-reeman.png" alt="" class="img-fluid"></div>
             </div>
         </div>
     </section>
 
 
-    <section class="product-section my-5 py-5" id="product_section">
+    <section class="product-section" id="product_section">
         <div class="container">
-            <h4 class="text-center text-uppercase fw-bold title-section pb-5">Mẫu kính mắt mới</h4>
-            <div class="row justify-content-evenly row-cols-4 py-2">
-                <div class="col-3 text-center mb-3">
+            <h4 class="text-center text-uppercase fw-bold title-section py-5">Mẫu kính mắt mới</h4>
+            <div class="row row-cols-4 py-2">
+                <div class="col-lg-3 col-6 text-center mb-3">
                     <div class="border box-product">
                         <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
                         <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
@@ -143,8 +143,7 @@
                         </span>
                     </div>
                 </div>
-
-                <div class="col-3 text-center mb-3">
+                <div class="col-lg-3 col-6 text-center mb-3">
                     <div class="border box-product">
                         <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
                         <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
@@ -154,8 +153,7 @@
                         </span>
                     </div>
                 </div>
-
-                <div class="col-3 text-center mb-3">
+                <div class="col-lg-3 col-6 text-center mb-3">
                     <div class="border box-product">
                         <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
                         <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
@@ -165,8 +163,7 @@
                         </span>
                     </div>
                 </div>
-
-                <div class="col-3 text-center mb-3">
+                <div class="col-lg-3 col-6 text-center mb-3">
                     <div class="border box-product">
                         <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
                         <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
@@ -176,8 +173,7 @@
                         </span>
                     </div>
                 </div>
-
-                <div class="col-3 text-center mb-3">
+                <div class="col-lg-3 col-6 text-center mb-3">
                     <div class="border box-product">
                         <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
                         <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
@@ -187,9 +183,7 @@
                         </span>
                     </div>
                 </div>
-
-
-                <div class="col-3 text-center mb-3">
+                <div class="col-lg-3 col-6 text-center mb-3">
                     <div class="border box-product">
                         <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
                         <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
@@ -199,9 +193,7 @@
                         </span>
                     </div>
                 </div>
-
-
-                <div class="col-3 text-center mb-3">
+                <div class="col-lg-3 col-6 text-center mb-3">
                     <div class="border box-product">
                         <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
                         <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
@@ -211,8 +203,7 @@
                         </span>
                     </div>
                 </div>
-
-                <div class="col-3 text-center mb-3">
+                <div class="col-lg-3 col-6 text-center mb-3">
                     <div class="border box-product">
                         <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
                         <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
@@ -222,7 +213,6 @@
                         </span>
                     </div>
                 </div>
-
 
             </div>
             <p class="text-center">
@@ -231,11 +221,11 @@
         </div>
     </section>
 
-    <section class="product-section my-5 py-5" id="product_section">
+    <section class="product-section" id="product_section">
         <div class="container">
-            <h4 class="text-center text-uppercase fw-bold title-section pb-5">Sản phẩm chính hãng</h4>
-            <div class="row justify-content-evenly row-cols-4 py-2">
-                <div class="col-3 text-center mb-3">
+            <h4 class="text-center text-uppercase fw-bold title-section py-5">Sản phẩm chính hãng</h4>
+            <div class="row row-cols-4 py-2">
+                <div class="col-lg-3 col-6 text-center mb-3">
                     <div class="border box-product">
                         <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
                         <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
@@ -245,8 +235,7 @@
                         </span>
                     </div>
                 </div>
-
-                <div class="col-3 text-center mb-3">
+                <div class="col-lg-3 col-6 text-center mb-3">
                     <div class="border box-product">
                         <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
                         <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
@@ -256,8 +245,7 @@
                         </span>
                     </div>
                 </div>
-
-                <div class="col-3 text-center mb-3">
+                <div class="col-lg-3 col-6 text-center mb-3">
                     <div class="border box-product">
                         <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
                         <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
@@ -267,8 +255,7 @@
                         </span>
                     </div>
                 </div>
-
-                <div class="col-3 text-center mb-3">
+                <div class="col-lg-3 col-6 text-center mb-3">
                     <div class="border box-product">
                         <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
                         <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
@@ -278,8 +265,7 @@
                         </span>
                     </div>
                 </div>
-
-                <div class="col-3 text-center mb-3">
+                <div class="col-lg-3 col-6 text-center mb-3">
                     <div class="border box-product">
                         <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
                         <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
@@ -289,9 +275,7 @@
                         </span>
                     </div>
                 </div>
-
-
-                <div class="col-3 text-center mb-3">
+                <div class="col-lg-3 col-6 text-center mb-3">
                     <div class="border box-product">
                         <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
                         <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
@@ -301,9 +285,7 @@
                         </span>
                     </div>
                 </div>
-
-
-                <div class="col-3 text-center mb-3">
+                <div class="col-lg-3 col-6 text-center mb-3">
                     <div class="border box-product">
                         <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
                         <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
@@ -313,8 +295,7 @@
                         </span>
                     </div>
                 </div>
-
-                <div class="col-3 text-center mb-3">
+                <div class="col-lg-3 col-6 text-center mb-3">
                     <div class="border box-product">
                         <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
                         <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
@@ -324,7 +305,6 @@
                         </span>
                     </div>
                 </div>
-
 
             </div>
             <p class="text-center">
@@ -334,12 +314,12 @@
     </section>
 
 
-    <section class="blog-section my-5 py-5" id="blog_section">
+    <section class="blog-section" id="blog_section">
         <div class="container">
-            <h4 class="text-center text-uppercase fw-bold title-section pb-5">ROCKYLEN'S BLOG</h4>
-            <div class="row justify-content-evenly row-cols-4 py-2">
+            <h4 class="text-center text-uppercase fw-bold title-section py-5">ROCKYLEN'S BLOG</h4>
+            <div class="row justify-content-evenly py-2 flex-wrap">
                 <!-- Blog -->
-                <div class="col-3 text-center p-3 mb-5 box-blog">
+                <div class="col-lg-3 col-md-6 text-center p-3 mb-5 box-blog">
                     <img src="./assets/img/avav.png" alt="" class="img-fluid">
                     <a href="#" class="text-uppercase mt-3 fw-bold nav-link pb-3">ÁNH SÁNG XANH TÍM VÀ TRÒNG KÍNH LỌC ÁNH SÁNG XANH TÍM</a>
                     <span class="d-flex justify-content-center gap-2">
@@ -349,7 +329,7 @@
                 </div>
                 <!-- Blog -->
                 <!-- Blog -->
-                <div class="col-3 text-center p-3 mb-5 box-blog">
+                <div class="col-lg-3 col-md-6 text-center p-3 mb-5 box-blog">
                     <img src="./assets/img/Untitled-2-copy.jpg" alt="" class="img-fluid">
                     <a href="#" class="text-uppercase mt-3 fw-bold nav-link pb-3">ÁNH SÁNG XANH TÍM VÀ TRÒNG KÍNH LỌC ÁNH SÁNG XANH TÍM</a>
                     <span class="d-flex justify-content-center gap-2">
@@ -359,7 +339,7 @@
                 </div>
                 <!-- Blog -->
                 <!-- Blog -->
-                <div class="col-3 text-center p-3 mb-5 box-blog">
+                <div class="col-lg-3 col-md-6 text-center p-3 mb-5 box-blog">
                     <img src="./assets/img/asx1.jpg" alt="" class="img-fluid">
                     <a href="#" class="text-uppercase mt-3 fw-bold nav-link pb-3">ÁNH SÁNG XANH TÍM VÀ TRÒNG KÍNH LỌC ÁNH SÁNG XANH TÍM</a>
                     <span class="d-flex justify-content-center gap-2">
@@ -369,7 +349,7 @@
                 </div>
                 <!-- Blog -->
                 <!-- Blog -->
-                <div class="col-3 text-center p-3 mb-5 box-blog">
+                <div class="col-lg-3 col-md-6 text-center p-3 mb-5 box-blog">
                     <img src="./assets/img/dong-cua.png" alt="" class="img-fluid">
                     <a href="#" class="text-uppercase mt-3 fw-bold nav-link pb-3">ÁNH SÁNG XANH TÍM VÀ TRÒNG KÍNH LỌC ÁNH SÁNG XANH TÍM</a>
                     <span class="d-flex justify-content-center gap-2">
