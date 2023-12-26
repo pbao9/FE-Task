@@ -27,6 +27,10 @@
   color: #4872fa !important;
 }
 
+.dropdown-menu li .dropdown-item:active {
+  background: #fff !important;
+}
+
 /* Header */
 
 /* Slide */
@@ -379,6 +383,30 @@ th {
   height: auto;
 }
 
+.categories-blog li a::before {
+  content: "\23F5";
+  padding-right: 15px;
+}
+
+.title-sep-container {
+  position: relative;
+  height: 6px;
+  flex-grow: 1;
+}
+.title-sep.sep-double {
+  height: 6px;
+  border-bottom-width: 1px;
+  border-top-width: 1px;
+}
+
+.title-sep {
+  position: relative;
+  display: block;
+  width: 100%;
+  border-style: solid;
+  border: 0 solid #7f7f7f;
+  box-sizing: content-box;
+}
 /* Content */
 
 @media (max-width: 768px) {

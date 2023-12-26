@@ -22,7 +22,7 @@
                         <li><a class="dropdown-item" href="./products-detail.php">Combo Kính Chống Ánh Sáng Xanh Có Sẵn</a></li>
                         <li><a class="dropdown-item" href="./cart.php">Gọng Kính Cận Cả Viền</a></li>
                         <li><a class="dropdown-item" href="./checkout.php">Gọng Kính Cận Nữa Viền</a></li>
-                        <li><a class="dropdown-item" href="#">Gọng Kính Không Viền</a></li>
+                        <li><a class="dropdown-item" href="./blog.php">Gọng Kính Không Viền</a></li>
                         <li><a class="dropdown-item" href="#">Gọng Kính Gỗ</a></li>
                         <li><a class="dropdown-item" href="#">Gọng Kính Cận Giá Rẻ</a></li>
                     </ul>

@@ -6,18 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Danh mục sản phẩm</title>
     <?php include('public/layouts/head.php') ?>
-
-    <!-- jQuery UI CSS -->
-    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-
-    <!-- jQuery -->
-    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
-
-    <!-- jQuery UI JavaScript -->
-    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 </head>
 
 <body>
+
     <?php include('public/layouts/header.php') ?>
     <!-- Breadcrumb -->
     <div class="bg-body-tertiary">
@@ -300,12 +292,6 @@
             </div>
 
         </div>
-
-
-
-
-
-
     </main>
 
     <!-- Content -->
