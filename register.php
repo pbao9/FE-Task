@@ -42,7 +42,7 @@
                                 <button class="btn btn-outline-dark btn-lg px-5 mt-2" type="submit">Đăng ký</button>
                             </div>
                             <div>
-                                <p class="mb-0">Đã có tài khoản? <span type="button" class="fw-bold text-capitalize text-primary" data-bs-toggle="modal" data-bs-target="#ModalForm">
+                                <p class="mt-3">Đã có tài khoản? <span type="button" class="fw-bold text-capitalize text-primary" data-bs-toggle="modal" data-bs-target="#ModalForm">
                                         Đăng nhập </span>
                                 </p>
                             </div>
