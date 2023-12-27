@@ -28,7 +28,8 @@
                                 <button class="btn btn-outline-dark btn-lg px-5" type="submit">Gửi Yêu Cầu</button>
                             </div>
                             <div>
-                                <p class="mb-0">Nhớ mật khẩu? <a href="./login.php" class="text-info fw-bold">Đăng nhập</a></p>
+                                <p class="mb-0">Nhớ mật khẩu? <span type="button" class="fw-bold text-capitalize text-info" data-bs-toggle="modal" data-bs-target="#ModalForm">
+                                        Đăng nhập </span></p>
                             </div>
                         </div>
                     </div>
