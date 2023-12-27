@@ -90,6 +90,8 @@
 
     </div>
 </nav>
+
+
 <!-- Modal Form -->
 <div class="modal fade" id="ModalForm" tabindex="-1" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered">
@@ -108,7 +110,7 @@
 
                     <div class="mb-3">
                         <label for="Password">Mật khẩu<span class="text-danger">*</span></label>
-                        <input type="password" name="password" class="form-control shadow-none" id="Mật khảu" placeholder="Nhập mật khẩu">
+                        <input type="password" name="password" class="form-control shadow-none" id="Mật khẩu" placeholder="Nhập mật khẩu">
                     </div>
                     <div class="mb-3">
                         <input class="form-check-input" type="checkbox" value="" id="remember" required>

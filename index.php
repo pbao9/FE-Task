@@ -86,7 +86,7 @@
                         <p>Là một sản phẩm về sức khoẻ con người, chúng tôi “kinh doanh dựa trên sự tử tế” lấy khách hàng là trọng tâm, không ngừng thay đổi cải tiến sản phẩm cũng như dịch vụ đi kèm. Ngoài ra, hệ thống kỹ thuật viên giàu kinh nghiệm, trang thiết bị máy móc hiện đại cùng dịch vụ tư vấn tận tâm giúp Eye Plus trở thành địa chỉ tin cậy đồng hành cùng hàng triệu khách hàng Việt.</p>
                     </div>
                 </div>
-                <div class="col-lg-6 col-sm-12 text-center">
+                <div class="col-lg-6 col-sm-12 text-center bg-image hover-zoom">
                     <img src="./assets/img/chat-luong.png" alt="" class="img-fluid">
                 </div>
             </div>
@@ -95,18 +95,18 @@
 
     <section class="card-section my-5 py-5" id="card_section">
         <div class="container">
-            <div class="row justify-content-evenly">
-                <div class="col-lg-3 col-sm-12 bg-light text-black rounded shadow text-center mt-lg-0 mt-sm-3 mb-3">
+            <div class="row justify-content-evenly px-2">
+                <div class="col-lg-3 col-sm-12 bg-light text-black rounded shadow text-center mt-lg-0 mt-sm-3 mb-3 border-top border-3 border-black">
                     <img src="./assets/img/sunglasses1.png" alt="" class="img-fluid my-3">
                     <p class="text-uppercase fw-bold">Mẫu mã đa dạng</p>
                     <p class="fw-light px-3">Thấu hiểu thị hiếu khách hàng, mẫu mã của Eye Plus đa dạng, phù hợp với nhiều yêu cầu khác nhau.</p>
                 </div>
-                <div class="col-lg-3 col-sm-12 bg-light text-black rounded shadow text-center mt-lg-0 mt-sm-3 mb-3">
+                <div class="col-lg-3 col-sm-12 bg-light text-black rounded shadow text-center mt-lg-0 mt-sm-3 mb-3 border-top border-3 border-black">
                     <img src="./assets/img/medal1.png" alt="" class="img-fluid my-3">
                     <p class="text-uppercase fw-bold">CHẤT LƯỢNG ĐI ĐẦU</p>
                     <p class="fw-light px-3">Các sản phẩm được chọn lựa kỹ lưỡng, độ tinh xảo cao đi cùng chuyên viên kinh nghiệm và máy móc tiên tiến, hiện đại.</p>
                 </div>
-                <div class="col-lg-3 col-sm-12 bg-light text-black rounded shadow text-center mt-lg-0 mt-sm-3 mb-3">
+                <div class="col-lg-3 col-sm-12 bg-light text-black rounded shadow text-center mt-lg-0 mt-sm-3 mb-3 border-top border-3 border-black">
                     <img src="./assets/img/piggy-bank1.png" alt="" class="img-fluid my-3">
                     <p class="text-uppercase fw-bold">GIÁ CẢ HỢP LÝ</p>
                     <p class="fw-light px-3">Mức giá cạnh tranh tương xứng với chất lượng, nhiều chương trình ưu đãi và chế độ bảo hành hậu mãi.</p>
