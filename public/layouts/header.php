@@ -103,14 +103,14 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <div class="mb-3">
-                        <label for="Email">Email<span class="text-danger">*</span></label>
-                        <input type="text" name="username" class="form-control shadow-none" id="email" placeholder="Nhập Email">
+                    <div class="form-outline mb-4" data-mdb-input-init>
+                        <input type="text" class="form-control" id="validationDefault01" required />
+                        <label for="validationDefault01" class="form-label">Email</label>
                     </div>
 
-                    <div class="mb-3">
-                        <label for="Password">Mật khẩu<span class="text-danger">*</span></label>
-                        <input type="password" name="password" class="form-control shadow-none" id="Mật khẩu" placeholder="Nhập mật khẩu">
+                    <div class="form-outline mb-4" data-mdb-input-init>
+                        <input type="text" class="form-control" id="validationDefault01" required />
+                        <label for="validationDefault01" class="form-label">Mật khẩu</label>
                     </div>
                     <div class="mb-3">
                         <input class="form-check-input" type="checkbox" value="" id="remember" required>
