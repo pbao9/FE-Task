@@ -51,6 +51,9 @@
         </div>
     </section>
 
+
+
+
     <!-- Content -->
     <?php include('public/layouts/scripts.php') ?>
     <?php include('public/layouts/footer.php') ?>

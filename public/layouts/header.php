@@ -77,9 +77,12 @@
                     </a>
                 </span>
                 <div class="btn btn-outline-primary px-3">
-                    <a href="./login.php" class="text-decoration-none text-dark fw-bold">Đăng nhập</a>
-                    <span class="ps-1 pe-1 fw-bold">|</span>
-                    <a href="./register.php" class="text-decoration-none text-dark fw-bold">Đăng ký</a>
+                    <!-- <a href="./login.php" class="text-decoration-none text-dark fw-bold">Đăng nhập</a> -->
+                    <span type="button" class="fw-bold" data-bs-toggle="modal" data-bs-target="#ModalForm">
+                        Đăng nhập </span>
+                    <!-- <span class="ps-1 pe-1 fw-bold">|</span> -->
+                    <!-- <a href="./register.php" class="text-decoration-none fw-bold">Đăng ký</a> -->
+
                 </div>
 
             </div>
@@ -87,4 +90,39 @@
 
     </div>
 </nav>
+<!-- Modal Form -->
+<div class="modal fade" id="ModalForm" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <!-- Login Form -->
+            <form action="">
+                <div class="modal-header">
+                    <h5 class="modal-title">Đăng nhập</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="Email">Email<span class="text-danger">*</span></label>
+                        <input type="text" name="username" class="form-control shadow-none" id="email" placeholder="Nhập Email">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="Password">Mật khẩu<span class="text-danger">*</span></label>
+                        <input type="password" name="password" class="form-control shadow-none" id="Mật khảu" placeholder="Nhập mật khẩu">
+                    </div>
+                    <div class="mb-3">
+                        <input class="form-check-input" type="checkbox" value="" id="remember" required>
+                        <label class="form-check-label" for="remember">Ghi nhớ thiết bị.</label>
+                        <a href="./forgot-password.php" class="float-end">Quên mật khẩu</a>
+                    </div>
+                </div>
+                <div class="modal-footer pt-4">
+                    <button type="button" class="btn btn-outline-primary fw-bold text-uppercase mx-auto w-100">Đăng nhập</button>
+                </div>
+                <p class="text-center">Chưa có tài khoản, <a href="./register.php">Đăng ký ngay</a></p>
+            </form>
+        </div>
+    </div>
+</div>
+
 <!-- Header -->
