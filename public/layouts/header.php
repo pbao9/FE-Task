@@ -65,13 +65,18 @@
                 </li>
             </ul>
 
-            <div class="d-flex justify-content-center align-items-center gap-5">
-                <span>
-                    <i class="fa-solid fa-magnifying-glass"></i>
+            <div class="d-flex flex-row justify-content-center align-items-center gap-5">
+                <span class="d-flex flex-row justify-content-between align-items-center">
+                    <a href="#" class="nav-link">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </a>
+
                     <span class="pe-1 ps-1">|</span>
-                    <i class="fa-solid fa-cart-shopping"></i>
+                    <a href="./cart.php" class="nav-link">
+                        <i class="fa-solid fa-cart-shopping"></i>
+                    </a>
                 </span>
-                <div class="btn btn-outline-info px-3">
+                <div class="btn btn-outline-primary px-3">
                     <a href="./login.php" class="text-decoration-none text-dark fw-bold">Đăng nhập</a>
                     <span class="ps-1 pe-1 fw-bold">|</span>
                     <a href="./register.php" class="text-decoration-none text-dark fw-bold">Đăng ký</a>

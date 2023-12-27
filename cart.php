@@ -65,7 +65,7 @@
         <div class="row p-3">
             <div class="col-6 d-lg-block d-none"></div>
             <div class="col-lg-6 col-12 border border-1 p-5">
-                <span class="fw-bold mb-3">Cộng giỏ hàng</span>
+                <span class="fw-bold mb-3">Tổng cộng</span>
                 <hr>
                 <div class="row">
                     <span class="mb-5 d-flex flex-row">
@@ -73,11 +73,11 @@
                         <div class="col-6 text-end product-subtotal">840.000 Đ</div>
                     </span>
                     <span class="mb-5 d-flex flex-row">
-                        <div class="col-6">Tổng</div>
-                        <div class="col-6 text-end text-primary fw-bold product-total">840.000 Đ</div>
+                        <span class="col-6">Tổng</span>
+                        <span class="col-6 text-end text-primary fw-bold product-total">840.000 Đ</span>
                     </span>
 
-                    <a href="#" class="btn btn-outline-primary text-decoration-none text-uppercase fw-bold mb-3 mx-2 w-auto btn-update-cart">Cập nhật giỏ hàng</a>
+                    <a href="./products.php" class="btn btn-outline-primary text-decoration-none text-uppercase fw-bold mb-3 mx-2 w-auto btn-update-cart">Tiếp tục mua hàng</a>
                     <a href="#" class="btn btn-primary text-decoration-none text-uppercase fw-bold mb-3 mx-2 w-auto btn-pending-pay">Tiến hành Thanh Toán</a>
                 </div>
 

@@ -146,7 +146,7 @@
                         <div class="col-lg-3 col-6 text-center mb-3">
                             <div class="border box-product">
                                 <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
-                                <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
+                                <a href="./products-detail.php" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
                                 <span class="d-flex justify-content-center gap-2 mb-2 flex-wrap">
                                     <del class="price-sale fw-bold">650.000 Đ</del>
                                     <span class="price text-danger fw-bold">520.000 Đ</span>
@@ -156,7 +156,7 @@
                         <div class="col-lg-3 col-6 text-center mb-3">
                             <div class="border box-product">
                                 <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
-                                <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
+                                <a href="./products-detail.php" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
                                 <span class="d-flex justify-content-center gap-2 mb-2 flex-wrap">
                                     <del class="price-sale fw-bold">650.000 Đ</del>
                                     <span class="price text-danger fw-bold">520.000 Đ</span>
@@ -166,7 +166,7 @@
                         <div class="col-lg-3 col-6 text-center mb-3">
                             <div class="border box-product">
                                 <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
-                                <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
+                                <a href="./products-detail.php" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
                                 <span class="d-flex justify-content-center gap-2 mb-2 flex-wrap">
                                     <del class="price-sale fw-bold">650.000 Đ</del>
                                     <span class="price text-danger fw-bold">520.000 Đ</span>
@@ -176,7 +176,7 @@
                         <div class="col-lg-3 col-6 text-center mb-3">
                             <div class="border box-product">
                                 <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
-                                <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
+                                <a href="./products-detail.php" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
                                 <span class="d-flex justify-content-center gap-2 mb-2 flex-wrap">
                                     <del class="price-sale fw-bold">650.000 Đ</del>
                                     <span class="price text-danger fw-bold">520.000 Đ</span>
@@ -186,7 +186,7 @@
                         <div class="col-lg-3 col-6 text-center mb-3">
                             <div class="border box-product">
                                 <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
-                                <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
+                                <a href="./products-detail.php" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
                                 <span class="d-flex justify-content-center gap-2 mb-2 flex-wrap">
                                     <del class="price-sale fw-bold">650.000 Đ</del>
                                     <span class="price text-danger fw-bold">520.000 Đ</span>
@@ -196,7 +196,7 @@
                         <div class="col-lg-3 col-6 text-center mb-3">
                             <div class="border box-product">
                                 <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
-                                <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
+                                <a href="./products-detail.php" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
                                 <span class="d-flex justify-content-center gap-2 mb-2 flex-wrap">
                                     <del class="price-sale fw-bold">650.000 Đ</del>
                                     <span class="price text-danger fw-bold">520.000 Đ</span>
@@ -206,7 +206,7 @@
                         <div class="col-lg-3 col-6 text-center mb-3">
                             <div class="border box-product">
                                 <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
-                                <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
+                                <a href="./products-detail.php" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
                                 <span class="d-flex justify-content-center gap-2 mb-2 flex-wrap">
                                     <del class="price-sale fw-bold">650.000 Đ</del>
                                     <span class="price text-danger fw-bold">520.000 Đ</span>
@@ -216,7 +216,7 @@
                         <div class="col-lg-3 col-6 text-center mb-3">
                             <div class="border box-product">
                                 <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
-                                <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
+                                <a href="./products-detail.php" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
                                 <span class="d-flex justify-content-center gap-2 mb-2 flex-wrap">
                                     <del class="price-sale fw-bold">650.000 Đ</del>
                                     <span class="price text-danger fw-bold">520.000 Đ</span>
@@ -226,7 +226,7 @@
                         <div class="col-lg-3 col-6 text-center mb-3">
                             <div class="border box-product">
                                 <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
-                                <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
+                                <a href="./products-detail.php" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
                                 <span class="d-flex justify-content-center gap-2 mb-2 flex-wrap">
                                     <del class="price-sale fw-bold">650.000 Đ</del>
                                     <span class="price text-danger fw-bold">520.000 Đ</span>
@@ -236,7 +236,7 @@
                         <div class="col-lg-3 col-6 text-center mb-3">
                             <div class="border box-product">
                                 <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
-                                <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
+                                <a href="./products-detail.php" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
                                 <span class="d-flex justify-content-center gap-2 mb-2 flex-wrap">
                                     <del class="price-sale fw-bold">650.000 Đ</del>
                                     <span class="price text-danger fw-bold">520.000 Đ</span>
@@ -246,7 +246,7 @@
                         <div class="col-lg-3 col-6 text-center mb-3">
                             <div class="border box-product">
                                 <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
-                                <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
+                                <a href="./products-detail.php" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
                                 <span class="d-flex justify-content-center gap-2 mb-2 flex-wrap">
                                     <del class="price-sale fw-bold">650.000 Đ</del>
                                     <span class="price text-danger fw-bold">520.000 Đ</span>
@@ -256,7 +256,7 @@
                         <div class="col-lg-3 col-6 text-center mb-3">
                             <div class="border box-product">
                                 <img src="./assets/img/product_1.jpg" alt="" class="product-img" width="100%">
-                                <a href="#" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
+                                <a href="./products-detail.php" class="product-title text-uppercase mt-3 text-decoration-none nav-link">Gọng kính Blancy 8470 C3 Bạc</a>
                                 <span class="d-flex justify-content-center gap-2 mb-2 flex-wrap">
                                     <del class="price-sale fw-bold">650.000 Đ</del>
                                     <span class="price text-danger fw-bold">520.000 Đ</span>

@@ -83,14 +83,13 @@
                         </tbody>
                     </table>
 
-                    <div class="bg-dark-subtle p-2 mt-2 d-flex flex-row justify-content-between">
-                        <span class="text-dark fw-bold text-uppercase">Tổng cộng</span>
-                        <span class="total-products fw-bold text-white">840.000 Đ</span>
+                    <div class="bg-dark-subtle p-2 d-flex flex-row justify-content-between align-items-center">
+                        <h5 class="text-dark fw-bold text-uppercase p-0 m-0">Tổng cộng</h5>
+                        <p class="total-products fw-bold text-white p-0 m-0">840.000 Đ</p>
                     </div>
 
-                    <div class="d-flex flex-column py-2 gap-2">
-
-                        <a href="#" class="btn btn-outline-warning fw-bold text-uppercase shadow-none">Tiếp tục mua sắm</a>
+                    <div class="d-flex flex-row justify-content-end py-2 gap-2">
+                        <a href="./products.php" class="btn btn-outline-warning fw-bold text-uppercase shadow-none">Tiếp tục mua sắm</a>
                         <a href="#" class="btn btn-primary fw-bold text-uppercase shadow-none">Xác nhận thanh toán</a>
                     </div>
 

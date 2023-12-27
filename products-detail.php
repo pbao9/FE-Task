@@ -148,9 +148,9 @@
                             </div>
                         </div>
                     </div>
-                    <div>
-                        <a href="#" class="btn btn-outline-info fw-bold text-uppercase mt-3 p-2 btn-add-products"><i class="fa-solid fa-plus"></i> Thêm cặp lens</a>
-                        <a href=" #" class="btn bg-warning bg-gradient fw-bold text-uppercase mt-3 p-2 btn-add-to-cart">Mua Ngay</a>
+                    <div class="d-flex flex-row justify-content-end gap-2">
+                        <a href="./cart.php" class="btn btn-outline-info fw-bold text-uppercase btn-add-products"><i class="fa-solid fa-plus"></i> Thêm vào giỏ hàng</a>
+                        <a href=" ./checkout.php" class="btn bg-warning bg-gradient text-white fw-bold text-uppercase btn-add-to-cart">Mua Ngay</a>
                     </div>
 
                 </div>
