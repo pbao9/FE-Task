@@ -37,35 +37,6 @@
             </div>
         </div>
     </section>
-
-    <div class="row w-100">
-        <div class="col-3">
-            <!-- Tab navs -->
-            <div class="nav flex-column nav-tabs text-center" id="v-tabs-tab" role="tablist" aria-orientation="vertical">
-                <a data-mdb-tab-init class="nav-link active" id="v-tabs-home-tab" href="#v-tabs-home" role="tab" aria-controls="v-tabs-home" aria-selected="true">Home</a>
-                <a data-mdb-tab-init class="nav-link" id="v-tabs-profile-tab" href="#v-tabs-profile" role="tab" aria-controls="v-tabs-profile" aria-selected="false">Profile</a>
-                <a data-mdb-tab-init class="nav-link" id="v-tabs-messages-tab" href="#v-tabs-messages" role="tab" aria-controls="v-tabs-messages" aria-selected="false">Messages</a>
-            </div>
-            <!-- Tab navs -->
-        </div>
-
-        <div class="col-9">
-            <!-- Tab content -->
-            <div class="tab-content" id="v-tabs-tabContent">
-                <div class="tab-pane fade show active" id="v-tabs-home" role="tabpanel" aria-labelledby="v-tabs-home-tab">
-                    Home content
-                </div>
-                <div class="tab-pane fade" id="v-tabs-profile" role="tabpanel" aria-labelledby="v-tabs-profile-tab">
-                    Profile content
-                </div>
-                <div class="tab-pane fade" id="v-tabs-messages" role="tabpanel" aria-labelledby="v-tabs-messages-tab">
-                    Messages content
-                </div>
-            </div>
-            <!-- Tab content -->
-        </div>
-    </div>
-
     <!-- Content -->
     <?php include('public/layouts/scripts.php') ?>
     <?php include('public/layouts/footer.php') ?>
