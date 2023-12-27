@@ -78,7 +78,7 @@
                     </span>
 
                     <a href="./products.php" class="btn btn-outline-primary text-decoration-none text-uppercase fw-bold mb-3 mx-2 w-auto btn-update-cart">Tiếp tục mua hàng</a>
-                    <a href="#" class="btn btn-primary text-decoration-none text-uppercase fw-bold mb-3 mx-2 w-auto btn-pending-pay">Tiến hành Thanh Toán</a>
+                    <a href="./checkout.php" class="btn btn-primary text-decoration-none text-uppercase fw-bold mb-3 mx-2 w-auto btn-pending-pay">Tiến hành Thanh Toán</a>
                 </div>
 
             </div>

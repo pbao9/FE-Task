@@ -408,9 +408,6 @@ th {
   box-sizing: content-box;
 }
 
-.button-a a:hover {
-  color: #fff !important;
-}
 /* Content */
 
 @media (max-width: 768px) {
