@@ -95,8 +95,8 @@
 
 <!-- Modal Form -->
 <div class="modal fade" id="ModalForm" tabindex="-1" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
+    <div class="modal-dialog modal-dialog-centered justify-content-center">
+        <div class="modal-content w-75 justify-content-center align-items-center">
             <!-- Login Form -->
             <form action="">
                 <div class="modal-header">
