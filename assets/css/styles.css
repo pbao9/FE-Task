@@ -58,6 +58,7 @@
   height: 100%;
   object-fit: contain;
 }
+
 /* Slide */
 
 /* Content */
@@ -393,6 +394,7 @@ th {
   height: 6px;
   flex-grow: 1;
 }
+
 .title-sep.sep-double {
   height: 6px;
   border-bottom-width: 1px;

@@ -1,8 +1,9 @@
 <!-- Header -->
 <nav class="navbar navbar-expand-lg sticky-top align-items-lg-left align-items-xl-center bg-white py-2 shadow-sm">
     <div class="container-fluid flex-lg-column flex-xl-row py-lg-1 py-md-3">
-        <a class="navbar-brand" href="./index.php   ">
-            <img src="./assets/img/logo.png" alt="">
+        <a class="navbar-brand" href="./index.php">
+            <!-- <img src="./assets/img/logo.png" alt=""> -->
+            <img src="./assets/img/logo-1.png" alt="" class="img-fluid" width="100px">
         </a>
         <button class="navbar-toggler d-lg-none d-sm-block collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="toggler-icon top-bar"></span>
